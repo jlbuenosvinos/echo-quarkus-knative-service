@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.graalvm.sdk:graal-sdk:20.1.0.2-0-redhat-00005">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/sdk/graal-sdk/20.1.0.2-0-redhat-00005/graal-sdk-20.1.0.2-0-redhat-00005.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/sdk/graal-sdk/20.1.0.2-0-redhat-00005/graal-sdk-20.1.0.2-0-redhat-00005-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/graalvm/sdk/graal-sdk/20.1.0.2-0-redhat-00005/graal-sdk-20.1.0.2-0-redhat-00005-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
