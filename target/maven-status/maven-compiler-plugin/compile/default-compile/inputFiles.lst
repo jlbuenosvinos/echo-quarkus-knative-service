@@ -1,0 +1,10 @@
+/Users/jbuenosv/OneDrive/RedHat/Doc/OpenShift/GIT/echo-quarkus-knative-service/src/main/java/com/redhat/jbuenosv/demos/monitoring/knative/echo/application/command/Command.java
+/Users/jbuenosv/OneDrive/RedHat/Doc/OpenShift/GIT/echo-quarkus-knative-service/src/main/java/com/redhat/jbuenosv/demos/monitoring/knative/echo/application/exception/EchoApplicationException.java
+/Users/jbuenosv/OneDrive/RedHat/Doc/OpenShift/GIT/echo-quarkus-knative-service/src/main/java/com/redhat/jbuenosv/demos/monitoring/knative/echo/infrastructure/HealthController.java
+/Users/jbuenosv/OneDrive/RedHat/Doc/OpenShift/GIT/echo-quarkus-knative-service/src/main/java/com/redhat/jbuenosv/demos/monitoring/knative/echo/application/process/EchoProcessManager.java
+/Users/jbuenosv/OneDrive/RedHat/Doc/OpenShift/GIT/echo-quarkus-knative-service/src/main/java/com/redhat/jbuenosv/demos/monitoring/knative/echo/application/process/EchoProcessManagerImpl.java
+/Users/jbuenosv/OneDrive/RedHat/Doc/OpenShift/GIT/echo-quarkus-knative-service/src/main/java/com/redhat/jbuenosv/demos/monitoring/knative/echo/application/command/EchoCommandHandler.java
+/Users/jbuenosv/OneDrive/RedHat/Doc/OpenShift/GIT/echo-quarkus-knative-service/src/main/java/com/redhat/jbuenosv/demos/monitoring/knative/echo/infrastructure/EchoController.java
+/Users/jbuenosv/OneDrive/RedHat/Doc/OpenShift/GIT/echo-quarkus-knative-service/src/main/java/com/redhat/jbuenosv/demos/monitoring/knative/echo/EchoApplication.java
+/Users/jbuenosv/OneDrive/RedHat/Doc/OpenShift/GIT/echo-quarkus-knative-service/src/main/java/com/redhat/jbuenosv/demos/monitoring/knative/echo/application/command/EchoCommand.java
+/Users/jbuenosv/OneDrive/RedHat/Doc/OpenShift/GIT/echo-quarkus-knative-service/src/main/java/com/redhat/jbuenosv/demos/monitoring/knative/echo/application/command/CommandHandler.java

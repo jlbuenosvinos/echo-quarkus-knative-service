@@ -1,0 +1,10 @@
+com/redhat/jbuenosv/demos/monitoring/knative/echo/application/command/EchoCommand.class
+com/redhat/jbuenosv/demos/monitoring/knative/echo/application/exception/EchoApplicationException.class
+com/redhat/jbuenosv/demos/monitoring/knative/echo/application/command/CommandHandler.class
+com/redhat/jbuenosv/demos/monitoring/knative/echo/application/command/Command.class
+com/redhat/jbuenosv/demos/monitoring/knative/echo/application/process/EchoProcessManager.class
+com/redhat/jbuenosv/demos/monitoring/knative/echo/infrastructure/EchoController.class
+com/redhat/jbuenosv/demos/monitoring/knative/echo/application/command/EchoCommandHandler.class
+com/redhat/jbuenosv/demos/monitoring/knative/echo/EchoApplication.class
+com/redhat/jbuenosv/demos/monitoring/knative/echo/infrastructure/HealthController.class
+com/redhat/jbuenosv/demos/monitoring/knative/echo/application/process/EchoProcessManagerImpl.class

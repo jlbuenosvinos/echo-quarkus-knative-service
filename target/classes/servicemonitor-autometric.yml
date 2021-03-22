@@ -1,0 +1,15 @@
+apiVersion: monitoring.coreos.com/v1
+kind: ServiceMonitor
+metadata:
+  labels:
+    k8s-app: echo-quarkus-knative-service-monitor-autometric
+  name: order-ingestor-quarkus-knative-service-monitor-autometric
+  namespace: sales-demo-app-dev
+spec:
+  endpoints:
+    - interval: 5s
+      port: http-autometric
+      targetPort: 9090
+  selector:
+    matchLabels:
+      serving.knative.dev/service: echo-quarkus-knative-service
