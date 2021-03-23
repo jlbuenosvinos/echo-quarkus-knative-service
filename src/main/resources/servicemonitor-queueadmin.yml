@@ -4,7 +4,7 @@ metadata:
   labels:
     k8s-app: echo-quarkus-knative-service-monitor-queueadm
   name: order-ingestor-quarkus-knative-service-monitor-queueadm
-  namespace: sales-demo-app-dev
+  namespace: demo-app-monitor
 spec:
   endpoints:
     - interval: 5s
